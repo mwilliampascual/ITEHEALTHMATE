@@ -1,4 +1,4 @@
-# PathFinder
+# IteHealthMate
 
 ![Graphical feature](https://user-images.githubusercontent.com/106217907/171543093-c84fe5e5-69db-4cd2-ac34-a2dea168c2d0.jpg)
 
@@ -31,10 +31,10 @@ This is an application for [TensorFlow Lite](https://www.tensorflow.org/lite) on
 Click the link to watch https://youtu.be/isGAerr6FmI
 
 ## Researcher/Developer:
-* Art Kenneth Vida
-* Jhun Fermin III, B. Villamor
-* Karizza B. Hipolito
-* Mary Ann F. Rivera
+* Toni Rizzel Damo
+* Kenneth Garanzo
+* Mhar WIlliam Pascual
+* Kristine Abbygale Retiban
 
 ## Adviser: 
 * Jefferson A. Costales
@@ -52,4 +52,4 @@ ITE Department
 * Bachelor of Science in Computer Science
 
 ## Date: 
-* January 17, 2022
+* July 29, 2023
