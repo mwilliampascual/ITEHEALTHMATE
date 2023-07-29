@@ -8,7 +8,7 @@ it is a specialized mobile app for ITE students at EARIST, providing a range of 
 
 ## Overview
 This is an application for [TensorFlow Lite](https://www.tensorflow.org/lite) on Android. It uses image classification to continuously classify objects it sees from the device's back camera. Inference is performed using the TensorFlow Lite Java API. The app classifies frames in real-time, displaying the top most probable classifications.
-![Menu](https://user-images.githubusercontent.com/106217907/171542945-4c369296-98ef-4682-86ba-a80f3c5d84f6.jpg)
+![1](https://github.com/mwilliampascual/ITEHEALTHMATE/assets/106385118/3e08027b-b09d-4170-946c-afa2d8c14885)
 
 ## Requirements
 *   Android Studio 4.0 (installed on a Mac, Linux, or Windows machine)
@@ -17,17 +17,14 @@ This is an application for [TensorFlow Lite](https://www.tensorflow.org/lite) on
 
 ## Features
 ### 1. Symptoms Checker
-![1](https://github.com/mwilliampascual/ITEHEALTHMATE/assets/106385118/3e08027b-b09d-4170-946c-afa2d8c14885)
-### 2. Text Reader
-![Text Reader](https://user-images.githubusercontent.com/106217907/171542966-735cdd56-39e6-42bc-bf9c-eb1701f35441.jpg)
-### 3. Money Reader
-![Money Reader](https://user-images.githubusercontent.com/106217907/171542973-1c02d216-a76a-4362-aced-c837666b4d67.jpg)
-### 4. Face Recognition
-![Face Recognition](https://user-images.githubusercontent.com/106217907/171542988-329de313-97e3-480f-be11-cfbd336bca92.jpg)
-### 5. Face Analyzer (Gender & Age Estimation)
-![Face Analyzer](https://user-images.githubusercontent.com/106217907/171543450-73faa700-73f4-4db9-9ef5-ca4cc47a1f47.jpg)
-### 6. GPS Tracker
-![GPS tracker](https://user-images.githubusercontent.com/106217907/171542995-2953cc09-0a24-454b-a146-49e44c1c27d0.jpg)
+![2](https://github.com/mwilliampascual/ITEHEALTHMATE/assets/106385118/38a7a327-0c9c-4b3b-b5d9-fc2dc16b7e9e)
+### 2. Health Calculator
+![3](https://github.com/mwilliampascual/ITEHEALTHMATE/assets/106385118/c21fb7b2-749b-4b88-ba9e-8c06fda3cf9b)
+### 3. First Aid Tips
+![4](https://github.com/mwilliampascual/ITEHEALTHMATE/assets/106385118/273084aa-3e66-4db9-8aa2-0aa33a647aa8)
+### 4. Nearby Clinics
+![5](https://github.com/mwilliampascual/ITEHEALTHMATE/assets/106385118/60756510-9dbc-44af-bfbd-949cd1c90cbd)
+
 
 ## Demo Video
 Click the link to watch https://drive.google.com/file/d/1-4247FXL9SUrNbT_a3W7VXmlCGsqEEGP/view?fbclid=IwAR2Ass-dOnoCbIT5xvDj7ikmVAnH6txFkNclJEc-y6FeHPggI4xfjXLGyWs
