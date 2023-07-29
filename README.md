@@ -16,8 +16,8 @@ This is an application for [TensorFlow Lite](https://www.tensorflow.org/lite) on
 *   USB cable (to connect Android device to your computer)
 
 ## Features
-### 1. Detection of common objects
-![Detect Object](https://user-images.githubusercontent.com/106217907/171542959-200f9c7d-6941-4d15-9d19-e4613f8259a0.jpg)
+### 1. Symptoms Checker
+![1](https://github.com/mwilliampascual/ITEHEALTHMATE/assets/106385118/3e08027b-b09d-4170-946c-afa2d8c14885)
 ### 2. Text Reader
 ![Text Reader](https://user-images.githubusercontent.com/106217907/171542966-735cdd56-39e6-42bc-bf9c-eb1701f35441.jpg)
 ### 3. Money Reader
