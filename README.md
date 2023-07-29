@@ -1,6 +1,6 @@
 # IteHealthMate
 
-[![Graphical feature]([Blank 1 Panel Landscape Comic Strip.png](https://github.com/mwilliampascual/ITEHEALTHMATE/issues/1#issue-1827385110))]
+https://github.com/mwilliampascual/ITEHEALTHMATE/issues/1#issue-1827385110
 
 it is a specialized mobile app for ITE students at EARIST, providing a range of health-related information, tips, and resources. It offers personalized guidance on maintaining a healthy lifestyle, managing stress, nutrition, exercise, and mental well-being. The app aims to support and promote the overall health and well-being of ITE students.
 
