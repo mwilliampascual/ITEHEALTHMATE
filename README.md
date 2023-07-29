@@ -1,4 +1,4 @@
-# IteHealthMate
+# ITEHEALTHMATE
 
 ![Blank 1 Panel Landscape Comic Strip](https://github.com/mwilliampascual/ITEHEALTHMATE/assets/106385118/50d6f66b-3812-4954-956c-073398c1218e)
 
@@ -7,7 +7,7 @@
 it is a specialized mobile app for ITE students at EARIST, providing a range of health-related information, tips, and resources. It offers personalized guidance on maintaining a healthy lifestyle, managing stress, nutrition, exercise, and mental well-being. The app aims to support and promote the overall health and well-being of ITE students.
 
 ## Overview
-This is an application for [TensorFlow Lite](https://www.tensorflow.org/lite) on Android. It uses image classification to continuously classify objects it sees from the device's back camera. Inference is performed using the TensorFlow Lite Java API. The app classifies frames in real-time, displaying the top most probable classifications.
+This is an Android application called "Health Mate," developed using Java and Android Studio. It enables users to securely exchange health-related information with each other. The app prioritizes data privacy and security while fostering a sense of community around personal well-being.
 ![1](https://github.com/mwilliampascual/ITEHEALTHMATE/assets/106385118/3e08027b-b09d-4170-946c-afa2d8c14885)
 
 ## Requirements
