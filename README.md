@@ -1,8 +1,8 @@
 # IteHealthMate
 
-![Graphical feature](https://user-images.githubusercontent.com/106217907/171543093-c84fe5e5-69db-4cd2-ac34-a2dea168c2d0.jpg)
+![Graphical feature](Blank 1 Panel Landscape Comic Strip.png)
 
-This study on the experienced of visually impaired people involved in the implementation of assistive technology through mobile phones. The algorithms was tested to existing datasets, enhanced and added trained datasets, discussed the results and their relevance, the analysis of the results, and highlight the implications of this study.
+it is a specialized mobile app for ITE students at EARIST, providing a range of health-related information, tips, and resources. It offers personalized guidance on maintaining a healthy lifestyle, managing stress, nutrition, exercise, and mental well-being. The app aims to support and promote the overall health and well-being of ITE students.
 
 ## Overview
 This is an application for [TensorFlow Lite](https://www.tensorflow.org/lite) on Android. It uses image classification to continuously classify objects it sees from the device's back camera. Inference is performed using the TensorFlow Lite Java API. The app classifies frames in real-time, displaying the top most probable classifications.
@@ -52,4 +52,4 @@ ITE Department
 * Bachelor of Science in Computer Science
 
 ## Date: 
-* July 29, 2023
+* July 31, 2023
