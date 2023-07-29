@@ -28,7 +28,7 @@ This is an application for [TensorFlow Lite](https://www.tensorflow.org/lite) on
 ![GPS tracker](https://user-images.githubusercontent.com/106217907/171542995-2953cc09-0a24-454b-a146-49e44c1c27d0.jpg)
 
 ## Demo Video
-Click the link to watch https://youtu.be/isGAerr6FmI
+Click the link to watch https://drive.google.com/file/d/1-4247FXL9SUrNbT_a3W7VXmlCGsqEEGP/view?fbclid=IwAR2Ass-dOnoCbIT5xvDj7ikmVAnH6txFkNclJEc-y6FeHPggI4xfjXLGyWs
 
 ## Researcher/Developer:
 * Toni Rizzel Damo
