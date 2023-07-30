@@ -48,7 +48,7 @@ College of Arts and Sciences
 ITE Department
 
 ## Course: 
-* Bachelor of Science in Computer Science
+* Bachelor of Science in Information Technology
 
 ## Date: 
 * July 31, 2023
