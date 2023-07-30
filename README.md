@@ -35,7 +35,7 @@ Click the link to watch https://drive.google.com/file/d/1-4247FXL9SUrNbT_a3W7VXm
 * Mhar WIlliam Pascual
 * Kristine Abbygale Retiban
 
-## Adviser: 
+## Professor: 
 * Jefferson A. Costales
 
 ## School Name:
